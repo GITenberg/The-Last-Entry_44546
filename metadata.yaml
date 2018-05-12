@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8948
     wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44546#The-Last-Entry
 gutenberg_issued: '2013-12-30'
 gutenberg_type: Text
 identifiers:
