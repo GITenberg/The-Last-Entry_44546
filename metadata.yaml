@@ -1,0 +1,29 @@
+_repo: The-Last-Entry_44546
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44546-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+description: ''
+gutenberg_issued: '2013-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Mutiny -- Fiction'
+- !lcc 'PR'
+title: The Last Entry
+url: http://www.gutenberg.org/ebooks/44546
